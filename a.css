@@ -1,0 +1,21 @@
+body {
+    font-family: "NanumGothic";
+}
+
+/* 클래스 선택자 */
+.male {
+    color: #007bff;
+}
+
+.female {
+    color: #e43681;
+} 
+
+ul {
+    list-style: none;
+}
+
+/* 아이디 선택자 */
+#ceo {
+    background-color: #dfe0e1;
+}
